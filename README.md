@@ -1,4 +1,4 @@
-Description
+Ready? Set. Go!
 ---------------
 
 This is a powerhouse combo of the popularized Underscores for it's lightweight Wordpress theme approach plus Gulp as the task runner neatly put together by @MattLePhoto. 
