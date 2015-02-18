@@ -27,8 +27,7 @@ My ultra-minimal CSS might make me look like theme tartare but that means less s
 * Smartly organized starter CSS in `style.css` that will help you to quickly get your design off the ground.
 * Licensed under GPLv2 or later. :) Use it to make something cool.
 
-Getting Started
----------------
+# Getting Started
 
 If you want to keep it simple, head over to http://underscores.me and generate your `_s` based theme from there. You just input the name of the theme you want to create, click the "Generate" button, and you get your ready-to-awesomize starter theme.
 
@@ -53,12 +52,11 @@ Then, update the stylesheet header in `style.css` and the links in `footer.php` 
 
 Gulp Docs
 ---------------
+Underscores uses the task runner Gulp to compile everything nicely and neatly. Everything is configured to play nice with Underscores. 
 
 ### Install Gulp
 
-**Unfamiliar with Gulp? Don't have node installed?** [Read and get started with Gulp]https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) before proceeding.
-
-From the command line in the project folder:
+**Unfamiliar with Gulp? Don't have node installed?** [Read and get started with Gulp] https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) before proceeding.
 
 # Getting Started
 
@@ -103,12 +101,6 @@ For API specific documentation you can check out the [documentation for that](AP
 The gulp community is growing, with new plugins being added daily. See the [main website](http://gulpjs.com/plugins/) for a complete list.
 
 
-
-
-
-
-
-Underscores uses the task runner Gulp to compile everything nicely and neatly. Everything is configured to play nice with Underscores. 
 
 Here are a few notable tasks you can run form this setup. To view the entire list, please view the package.json file. 
 
