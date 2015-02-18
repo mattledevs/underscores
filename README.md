@@ -51,7 +51,7 @@ OR
 Then, update the stylesheet header in `style.css` and the links in `footer.php` with your own information. Next, update or delete this readme.
 
 
-Gulp Docs
+Setting up Gulp
 ---------------
 Underscores uses the task runner Gulp to compile everything nicely and neatly. Everything is configured to play nice with Underscores. Follow these command lines to get up and running with Gulp. 
 
