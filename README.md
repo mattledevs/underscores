@@ -57,7 +57,7 @@ Underscores uses the task runner Gulp to compile everything nicely and neatly. E
 
 ### Install Gulp
 
-**Unfamiliar with Gulp? Don't have node installed?** [Read and get started with Gulp] https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) before proceeding.
+**Gulp Site - http://gulpjs.com/
 
 #### 1. Install gulp globally:
 
@@ -86,7 +86,7 @@ $ gulp
 Here are a few notable tasks you can run form this setup. To view the entire list, please view the package.json file. 
 
 Tasks with Gulp
--
+===
 
 To gain the full benefits of Flint's Gulp setup, please see the following example commands: 
 
