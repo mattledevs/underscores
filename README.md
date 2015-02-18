@@ -1,7 +1,7 @@
 Ready? Set. Go!
 ---------------
 
-This is a powerhouse combo of the popularized Underscores for it's lightweight Wordpress theme approach plus Gulp as the task runner neatly put together by @MattLePhoto. 
+This is a powerhouse combo of the popularized Underscores for its lightweight Wordpress theme approach plus Gulp as the task runner neatly put together by @MattLePhoto.
 
 Enjoy, tweak, springboard, change the world. 
 
@@ -53,6 +53,60 @@ Then, update the stylesheet header in `style.css` and the links in `footer.php` 
 
 Gulp Docs
 ---------------
+
+### Install Gulp
+
+**Unfamiliar with Gulp? Don't have node installed?** [Read and get started with Gulp]https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) before proceeding.
+
+From the command line in the project folder:
+
+# Getting Started
+
+#### 1. Install gulp globally:
+
+```sh
+$ npm install --global gulp
+```
+
+#### 2. Install gulp in your project:
+
+```sh
+$ npm install --save-dev gulp
+```
+
+#### 3. Download and install required node packages 
+
+```sh
+$ npm install gulp-sass gulp-autoprefixer gulp-minify-css gulp-jshint gulp-concat gulp-uglify gulp-imagemin gulp-notify gulp-rename gulp-livereload gulp-cache del --save-dev
+```
+
+#### 4. Run gulp:
+
+```sh
+$ gulp
+```
+
+The default task will run and do nothing.
+
+To run individual tasks, use `gulp <task> <othertask>`.
+
+## Where do I go now?
+
+You have an empty gulpfile and everything is installed. How do you REALLY get started? Check out the [recipes](recipes) and the [list of articles](README.md#articles) for more information.
+
+## .src, .watch, .dest, CLI args - How do I use these things?
+
+For API specific documentation you can check out the [documentation for that](API.md).
+
+## Available Plugins
+
+The gulp community is growing, with new plugins being added daily. See the [main website](http://gulpjs.com/plugins/) for a complete list.
+
+
+
+
+
+
 
 Underscores uses the task runner Gulp to compile everything nicely and neatly. Everything is configured to play nice with Underscores. 
 
