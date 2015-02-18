@@ -57,7 +57,7 @@ Underscores uses the task runner Gulp to compile everything nicely and neatly. E
 
 ### Install Gulp
 
-**Gulp Site - http://gulpjs.com/
+Gulp Site - http://gulpjs.com/
 
 #### 1. Install gulp globally:
 
