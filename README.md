@@ -27,7 +27,8 @@ My ultra-minimal CSS might make me look like theme tartare but that means less s
 * Smartly organized starter CSS in `style.css` that will help you to quickly get your design off the ground.
 * Licensed under GPLv2 or later. :) Use it to make something cool.
 
-# Getting Started
+Getting started
+===
 
 If you want to keep it simple, head over to http://underscores.me and generate your `_s` based theme from there. You just input the name of the theme you want to create, click the "Generate" button, and you get your ready-to-awesomize starter theme.
 
@@ -52,13 +53,11 @@ Then, update the stylesheet header in `style.css` and the links in `footer.php` 
 
 Gulp Docs
 ---------------
-Underscores uses the task runner Gulp to compile everything nicely and neatly. Everything is configured to play nice with Underscores. 
+Underscores uses the task runner Gulp to compile everything nicely and neatly. Everything is configured to play nice with Underscores. Follow these command lines to get up and running with Gulp. 
 
 ### Install Gulp
 
 **Unfamiliar with Gulp? Don't have node installed?** [Read and get started with Gulp] https://github.com/gulpjs/gulp/blob/master/docs/getting-started.md) before proceeding.
-
-# Getting Started
 
 #### 1. Install gulp globally:
 
@@ -83,24 +82,6 @@ $ npm install gulp-sass gulp-autoprefixer gulp-minify-css gulp-jshint gulp-conca
 ```sh
 $ gulp
 ```
-
-The default task will run and do nothing.
-
-To run individual tasks, use `gulp <task> <othertask>`.
-
-## Where do I go now?
-
-You have an empty gulpfile and everything is installed. How do you REALLY get started? Check out the [recipes](recipes) and the [list of articles](README.md#articles) for more information.
-
-## .src, .watch, .dest, CLI args - How do I use these things?
-
-For API specific documentation you can check out the [documentation for that](API.md).
-
-## Available Plugins
-
-The gulp community is growing, with new plugins being added daily. See the [main website](http://gulpjs.com/plugins/) for a complete list.
-
-
 
 Here are a few notable tasks you can run form this setup. To view the entire list, please view the package.json file. 
 
