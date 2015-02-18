@@ -1,8 +1,12 @@
-Description: This is a powerhouse combo of the popularized Underscores for it's lightweight Wordpress theme approach plus Gulp as the task runner neatly put together by @MattLePhoto. 
+Description
+---------------
+
+This is a powerhouse combo of the popularized Underscores for it's lightweight Wordpress theme approach plus Gulp as the task runner neatly put together by @MattLePhoto. 
 
 Enjoy, tweak, springboard, change the world. 
 
-=== Underscores Docs ===
+Underscores Docs
+---------------
 
 ![Travis CI Build Status](https://travis-ci.org/Automattic/_s.svg?branch=master)
 
@@ -47,7 +51,8 @@ OR
 Then, update the stylesheet header in `style.css` and the links in `footer.php` with your own information. Next, update or delete this readme.
 
 
-=== Gulp Docs ===
+Gulp Docs
+---------------
 
 Underscores uses the task runner Gulp to compile everything nicely and neatly. Everything is configured to play nice with Underscores. 
 
