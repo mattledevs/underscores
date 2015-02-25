@@ -56,7 +56,7 @@ With Bower you can manage all your packages in one place and source control thei
 
 ### Install Bower
 
-Gulp Site - http://bower.io/
+Bower Site - http://bower.io/
 
 #### 1. Install bower globally:
 
