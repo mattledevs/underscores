@@ -50,6 +50,20 @@ OR
 
 Then, update the stylesheet header in `style.css` and the links in `footer.php` with your own information. Next, update or delete this readme.
 
+Install Packages with Bower
+---------------
+Install Bootstrap, FontAwesome and other packages 
+
+### Install Bower
+
+Gulp Site - http://gulpjs.com/
+
+#### 1. Install bower globally:
+
+```sh
+$ npm install -g bower
+```
+
 
 Setting up Gulp
 ---------------
