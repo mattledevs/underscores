@@ -64,13 +64,13 @@ Bower Site - http://bower.io/
 $ npm install -g bower
 ```
 
-#### 2. Initialize bower in your project folder
+#### 2. Install bower dependencies in your project folder:
 
 ```sh
 $ bower init
 ```
 
-#### 3. Install any package you want 
+#### 3. Install any package you want:
 
 ```sh
 $ bower install bootstrap-sass-official --save  
@@ -93,16 +93,16 @@ Gulp Site - http://gulpjs.com/
 $ npm install --global gulp
 ```
 
-#### 2. Install gulp in your project:
+#### 2. Install gulp dependencies in your project:
 
 ```sh
 $ npm install --save-dev gulp
 ```
 
-#### 3. Download and install required node packages 
+#### 3. Download and install required node packages:
 
 ```sh
-$ npm install gulp-sass gulp-autoprefixer gulp-minify-css gulp-jshint gulp-concat gulp-uglify gulp-imagemin gulp-notify gulp-rename gulp-livereload gulp-cache del --save-dev
+$ npm install gulp-bower gulp-sass gulp-autoprefixer gulp-minify-css gulp-jshint gulp-concat gulp-uglify gulp-imagemin gulp-notify gulp-rename gulp-livereload gulp-cache del --save-dev
 ```
 
 #### 4. Run gulp:

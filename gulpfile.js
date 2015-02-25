@@ -1,5 +1,6 @@
 'use strict';
 var gulp = require('gulp'),
+    bower = require('gulp-bower'),
     sass = require('gulp-sass'),
     autoprefixer = require('gulp-autoprefixer'),
     minifycss = require('gulp-minify-css'),
@@ -12,6 +13,11 @@ var gulp = require('gulp'),
     cache = require('gulp-cache'),
     livereload = require('gulp-livereload'),
     del = require('del');
+
+var config = {
+     sassPath: './src/sass',
+     bowerDir: './bower_components' 
+}
 
 gulp.task('default', function() {
 	gulp.start('styles', 'scripts', 'images');
