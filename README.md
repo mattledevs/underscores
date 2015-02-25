@@ -52,17 +52,31 @@ Then, update the stylesheet header in `style.css` and the links in `footer.php` 
 
 Install Packages with Bower
 ---------------
-Install Bootstrap, FontAwesome and other packages 
+With Bower you can manage all your packages in one place and source control their versions. This step is optional. 
 
 ### Install Bower
 
-Gulp Site - http://gulpjs.com/
+Gulp Site - http://bower.io/
 
 #### 1. Install bower globally:
 
 ```sh
 $ npm install -g bower
 ```
+
+#### 2. Initialize bower in your project folder
+
+```sh
+$ bower init
+```
+
+#### 3. Install any package you want 
+
+```sh
+$ bower install bootstrap-sass-official --save  
+$ bower install fontawesome --save
+```
+
 
 
 Setting up Gulp
